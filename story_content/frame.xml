@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000101" font="Open Sans" controllayout="npnxnanbsnfns00000000101" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
-    <layout name="pxabnsnfns00000000101" font="Open Sans" controllayout="pxabnsnfns00000000101" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
-    <layout name="npxnabnsnfns00000000101" font="Open Sans" controllayout="npxnabnsnfns00000000101" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
-    <layout name="npnxnanbnsnfns00000000101" font="Open Sans" controllayout="npnxnanbnsnfns00000000101" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
-    <layout name="pxabnsnfns00000000100" font="Open Sans" controllayout="pxabnsnfns00000000100" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
+    <layout name="npnxnanbsnfns00000000101" font="Open Sans" controllayout="npnxnanbsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="pxabnsnfns00000000101" font="Open Sans" controllayout="pxabnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="npxnabnsnfns00000000101" font="Open Sans" controllayout="npxnabnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="npnxnanbnsnfns00000000101" font="Open Sans" controllayout="npnxnanbnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="pxabnsnfns00000000100" font="Open Sans" controllayout="pxabnsnfns00000000100" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -200,7 +200,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns00000000101">
+    <colorscheme name="npnxnanbnsnfns00000000101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1117,7 +1117,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns00000000101">
+    <string_table name="npnxnanbnsnfns00000000101">
       <string id="three_image_items">items</string>
       <string id="three_image_viewed">viewed</string>
       <string id="three_image_of">of</string>
@@ -1228,7 +1228,7 @@
             <slidelink slideid="_player.6KV2qf0IVWx.5r3xFjgD9iU" displaytext="המנהלת של רועי הציעה לו שוב ושוב לבוא אליה הביתה לשתות כוס יין.&#xA;רועי אמר לה מספר פעמים שהוא לא יכול.&#xA;האם מדובר בהטרדה מינית?" expand="false" type="slide" />
             <slidelink slideid="_player.6KV2qf0IVWx.6eYBH98IcG8" displaytext="המנהל של רונית הציע לה לצאת איתו לבלות ובתמורה הוא יקדם אותה בעבודה. &#xA;האם מדובר בהטרדה מינית?&#xA;" expand="false" type="slide" />
             <slidelink slideid="_player.6KV2qf0IVWx.5iG4vxv1fzy" displaytext="המנהל של דנה אומר לה מידי יום שהיא בחורה יפה, שהבגדים שלה יושבים עליה צמוד ושהוא ישמח שהיא תתלבש חשוף יותר.&#xA;האם מדובר בהטרדה מינית?&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6KV2qf0IVWx.6ehBHsha7h6" displaytext="רן ושירי עובדים יחד כמטפלים במסגרת. רן מחבב את שירי והציע לה לצאת איתו לסרט. שירי הסגימה. האם מדובר בהטרדה מינית?&#xA;" expand="false" type="slide" />
+            <slidelink slideid="_player.6KV2qf0IVWx.6ehBHsha7h6" displaytext="רן ושירי עובדים יחד כמטפלים במסגרת. רן מחבב את שירי והציע לה לצאת איתו לסרט. שירי הסכימה. האם מדובר בהטרדה מינית?&#xA;" expand="false" type="slide" />
             <slidelink slideid="_player.6KV2qf0IVWx.6jVSEbdKzoo" displaytext="המנהלת של דן כל הזמן מתעניינת בנטייתו המינית והעדפתו לגברים. דן ביקש ממנה שתפסיק, אבל היא מתעלמת מבקשתו וממשיכה. האם מדובר בהטרדה מינית?&#xA;" expand="false" type="slide" />
           </links>
         </slidelink>
